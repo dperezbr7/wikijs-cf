@@ -2,7 +2,7 @@
 title: Techedge Desarrollo
 description: Wiki para el equipo de desarrollo de Techedge
 published: true
-date: 2022-12-16T14:32:40.017Z
+date: 2022-12-16T15:32:54.161Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-16T11:31:07.922Z
