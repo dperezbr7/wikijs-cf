@@ -9,3 +9,5 @@ dateCreated: 2022-12-16T15:31:04.163Z
 ---
 
 # wikijs-cf
+
+Repositorio para guardar todo el contenido de la wiki (wiki.js) de Techedge España.
